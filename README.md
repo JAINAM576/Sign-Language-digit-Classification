@@ -42,7 +42,6 @@ Before deploying the model in production, it's recommended to validate its perfo
 
 - Python 3.x
 - TensorFlow-Keras
-- [Additional dependencies if any]
 
 ### Installation
 
@@ -100,7 +99,14 @@ The model was trained using a CNN architecture with the following callbacks:
 The following plots illustrate the model's training and validation accuracy, as well as training and validation loss over epochs.
 
 - **Accuracy vs. Validation Accuracy**
+  ![accuracy_curve](https://github.com/user-attachments/assets/73996a9a-6eee-47d8-9b89-5b9d764d9b64)
+
 - **Loss vs. Validation Loss**
+  ![loss_curve](https://github.com/user-attachments/assets/f734275f-2be8-4403-a036-94f6de7764d4)
+
+  
+
+
 
 These plots indicate that the model's accuracy improves steadily with minimal overfitting, as demonstrated by the close alignment between the training and validation curves.
 
