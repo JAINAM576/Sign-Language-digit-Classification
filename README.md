@@ -1,5 +1,3 @@
-Here's a comprehensive GitHub README for your Sign Language Digit Recognition Model:
-
 ---
 
 # Sign Language Digit Recognition Model
