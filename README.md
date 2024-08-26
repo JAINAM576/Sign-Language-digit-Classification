@@ -136,8 +136,8 @@ The model was trained on cloud GPU (kaggle).
 #### Software
 
 - **Framework:** TensorFlow-Keras
-- **Python Version:** [Python version used]
-- **Operating System:** [OS used]
+- **Python Version:** 3.10.14
+- **Operating System:** Windows11
 
 ## Contributing
 
